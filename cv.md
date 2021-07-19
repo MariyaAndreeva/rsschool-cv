@@ -1,6 +1,6 @@
 # Pre-junior Frontend Developer 
 
-## Maria Andreeva
+## name: Maria Andreeva
 ## phone: +375(25)915-38-43
 ## email: maryia.evgenevna@gmail.com
 
